@@ -1,0 +1,10 @@
+[
+	{
+		"img": "/img/cube.png",
+		"solution": "<div class='b'></div><div class='l'></div><div class='r'></div><style>body{margin:0;background: #0b2429}div{position:absolute;top:80px;width:71px;height:71px}.l{transform:skew(0, -45deg);background:#998235;left:129px}.r{transform:skew(0, 45deg);background:#1a4341;left:50%}.b{width:100px;height:100px;background:#f3ac3c;transform:translateX(-50%) rotate(45deg);top:135px;left:50%}</style>"
+	},
+	{
+		"img": "/img/ticket.png",
+		"solution": "<div class='y'></div><div class='o y'></div><div class='t'></div><div class='m'></div><div class='l t'></div><div class='b t'></div><div class='c m'></div><div class='e t'></div><style>body{margin:0;background:#62306d}div{position:absolute;background:#62306d}.m{width:20px;height:20px;border-radius:50%;background: #62306d;top:90px;left:230px}.c{top:190px}.t{width:40px;height:40px;border-radius:50%;left:80px;top:80px}.l{left:280px}.e{left:280px;top:180px}.b{top:180px}.y{top: 100px;left:100px;width:140px;height:100px;background:#f7ec7d;}.o{left:240px;width:60px;background:#e38f66;}</style>"
+	}
+]
