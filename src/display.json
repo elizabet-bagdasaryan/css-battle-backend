@@ -1,33 +1,33 @@
 [
+	{ "name": "", "img": "/img/site-point.png", "solution": "" },
 	{
-		"img": "/img/site-point.png",
-		"solution": ""
-	},
-	{
+		"name": "",
 		"img": "/img/cloud.png",
 		"solution": ""
 	},
+	{ "name": "", "img": "/img/boxception.png", "solution": "" },
 	{
-		"img": "/img/boxception.png",
-		"solution": ""
-	},
-	{
+		"name": "",
 		"img": "/img/switches.png",
 		"solution": ""
 	},
 	{
+		"name": "",
 		"img": "/img/blossom.png",
 		"solution": ""
 	},
 	{
+		"name": "",
 		"img": "/img/smiley.png",
 		"solution": ""
 	},
 	{
+		"name": "",
 		"img": "/img/lockup.png",
 		"solution": ""
 	},
 	{
+		"name": "",
 		"img": "/img/cups-balls.png",
 		"solution": ""
 	}
